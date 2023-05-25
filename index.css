@@ -1,0 +1,14 @@
+body{
+    margin: 10;
+    background: skyblue;
+}
+body h1{
+    text-align: center;
+    color: brown;
+    position: relative;
+    height: 5rem;
+}
+#text{
+    text-align: center;
+    size: 5ch;
+}
